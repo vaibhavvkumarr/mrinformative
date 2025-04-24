@@ -1,0 +1,36 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+.container {
+    /* border: 2px solid red; */
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+
+}
+
+.top {
+    text-align: center;
+}
+
+.foter {
+    text-align: center;
+}
+
+.box {
+    /* border: 2px solid green; */
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 7px;
+    margin: auto;
+    width: 50%;
+    border: 2px solid rgb(255, 0, 0);
+    padding: 20px;
+
+}
+
